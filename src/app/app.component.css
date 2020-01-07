@@ -1,7 +1,11 @@
-.jumbotron {
+.new {
     background: #ffffff;
 }
 
 .headcolor {
     background: linear-gradient(to left, rgb(79, 160, 192), rgb(113, 224, 206));
+}
+
+table {
+    width: 100%;
 }
